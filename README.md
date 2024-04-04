@@ -1,1 +1,1 @@
-# Bean-Leaves-Diseases-detection-Deployment-in-kubernetes-
+# Tea-Leaf-Diseases-detection-Deployment-in-kubernetes-
